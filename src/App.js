@@ -3,12 +3,12 @@ import './App.css';
 import Korta from './components/Korta';
 
 const kortuImg = [
-  {"src": "stebuklinga-atmintis/img/pic-1.jpg", matched: false},
-  {"src": "stebuklinga-atmintis/img/pic-2.jpg", matched: false},
-  {"src": "stebuklinga-atmintis/img/pic-3.jpg", matched: false},
-  {"src": "stebuklinga-atmintis/img/pic-4.jpg", matched: false},
-  {"src": "stebuklinga-atmintis/img/pic-5.png", matched: false},
-  {"src": "stebuklinga-atmintis/img/pic-6.png", matched: false}
+  {"src": "/img/pic-1.jpg", matched: false},
+  {"src": "/img/pic-2.jpg", matched: false},
+  {"src": "/img/pic-3.jpg", matched: false},
+  {"src": "/img/pic-4.jpg", matched: false},
+  {"src": "/img/pic-5.png", matched: false},
+  {"src": "/img/pic-6.png", matched: false}
 ]
 
 function App() {

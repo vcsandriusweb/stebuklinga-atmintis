@@ -12,7 +12,7 @@ export default function Korta( {korta, handlePasirinkimas, flipped, disabled } )
               <div className={flipped ? 'flipped' : ''}>
                 <img src={korta.src} className='priekis' alt="kortos priekine puse" />
                 <img 
-                    src='stebuklinga-atmintis/img/cover.webp' 
+                    src='/img/cover.webp' 
                     className='nugara' 
                     alt="kortos nugarine puse" 
                     onClick={handleClick}
