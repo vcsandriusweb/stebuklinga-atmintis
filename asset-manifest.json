@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/stebuklinga-atmintis/static/css/main.732ebba0.css",
-    "main.js": "/stebuklinga-atmintis/static/js/main.bc31ddf4.js",
+    "main.js": "/stebuklinga-atmintis/static/js/main.1e78fc0b.js",
     "index.html": "/stebuklinga-atmintis/index.html",
     "main.732ebba0.css.map": "/stebuklinga-atmintis/static/css/main.732ebba0.css.map",
-    "main.bc31ddf4.js.map": "/stebuklinga-atmintis/static/js/main.bc31ddf4.js.map"
+    "main.1e78fc0b.js.map": "/stebuklinga-atmintis/static/js/main.1e78fc0b.js.map"
   },
   "entrypoints": [
     "static/css/main.732ebba0.css",
-    "static/js/main.bc31ddf4.js"
+    "static/js/main.1e78fc0b.js"
   ]
 }
