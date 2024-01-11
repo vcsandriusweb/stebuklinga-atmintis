@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stebuklinga-atmintis/static/css/main.732ebba0.css",
+    "main.js": "/stebuklinga-atmintis/static/js/main.1e78fc0b.js",
+    "index.html": "/stebuklinga-atmintis/index.html",
+    "main.732ebba0.css.map": "/stebuklinga-atmintis/static/css/main.732ebba0.css.map",
+    "main.1e78fc0b.js.map": "/stebuklinga-atmintis/static/js/main.1e78fc0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.732ebba0.css",
+    "static/js/main.1e78fc0b.js"
+  ]
+}
